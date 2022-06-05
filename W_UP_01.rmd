@@ -58,7 +58,7 @@ As shown on this boxplot, the line players have less pushups than the skill play
 favstats(pushups~position,data=mydata)
 ```
 
-
+The line players minimum is 3x less than the skilled players. The skilled players have more range and data to work with than the line players because of the variation of number and participants. 
 
 
 ## Inferential Results
