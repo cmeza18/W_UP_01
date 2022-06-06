@@ -69,10 +69,12 @@ The line players minimum is 3x less than the skilled players. The skilled player
 t.test(pushups~position,data=mydata)
 ```
 
-
+The chances of seeing results like this if there really is no difference between line and skill players is .000009421
 
 
 # Discussion and Conclusion
 
 <!--Discussion and conclusion here. If you found a relationship be sure to consider whether the relationship occurs because one of the variavbles causes the other, or whether they perhasps are related for some other reason. Watch the chapter 6 videos from the GeorgeTown videos collection.!-->
+
+The skill players on average did more push ups than the line players. The median pushups done by skill players was also higher than those for line players shown in the box plot. The median for the skill players was 47.5 while the line players median was 14.5. 
 
